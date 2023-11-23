@@ -44,7 +44,7 @@ yarn sequelize db:migrate
   <tr>
     <td align="center">
       <a href="http://https://www.linkedin.com/in/emersonbbezerra/">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Imagem Ficícia de Emerson no LinkedIN"/><br>
         <sub>
           <b>Eu mesmo!</b>
         </sub>
